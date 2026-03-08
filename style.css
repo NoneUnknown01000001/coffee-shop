@@ -247,7 +247,7 @@ header > nav > ul > li > a:hover ~ img {
   color: gray;
   width: 100%;
   text-align: justify;
-  margin-top: 90px;
+  margin-top: 120px;
 }
 
 .head-se-2fr > button {
@@ -824,9 +824,9 @@ main {
     display: block;
   }
 
-.head-se-2fr > p {
-  margin-top: 5px;
-}
+  .head-se-2fr > p {
+    margin-top: 5px;
+  }
 
   .head-se-3fr > img {
     height: 400px;
